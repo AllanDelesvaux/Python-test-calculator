@@ -1,17 +1,17 @@
 def add(a,b):
- checkinputs(a,b)
+ checkInputs(a,b)
  return a + b 
 
 def subtract(a,b):
- checkinputs(a,b)
+ checkInputs(a,b)
  return a - b 
 
 def multiply(a,b):
- checkinputs(a,b)
+ checkInputs(a,b)
  return a * b 
 
 def divide(a,b):
- checkinputs(a,b)
+ checkInputs(a,b)
  return a / b 
 
 def checkInputs(a,b):
